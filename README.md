@@ -34,16 +34,16 @@
   <h3 align="center">AUTOMATING THE DEPLOYMENT OF NETWORK SETUPS USING VAGRANT</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Design of Networks and communication systems - Project A.Y. 2020-21
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SuperboGiuseppe/dncs_lab2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/SuperboGiuseppe/dncs_lab2/blob/main/README.md">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/SuperboGiuseppe/dncs_lab2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/SuperboGiuseppe/dncs_lab2/issues">Request Feature</a>
   </p>
 </p>
 
