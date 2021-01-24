@@ -82,23 +82,19 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The purpose of this project is to provide a fully automated virtual network environment. Where a user can easily customize and design a virtual network environment according to their need. With the help of this environment, a user can create different virtual machines acting as a server, router, switches, and hosts. Using this setup users can easily control and monitor their machines' performances and they can use them accordingly.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+- Other detail is pending......
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+A network is composed of a set of computing devices connected to each other. Likewise, a graph is a mathematical structure composed of a set of nodes connected among each other via edges. For this reason, the network management core of this project is based on a really light python library called pyvis, which is based on javascript. this library, makes it possible to have a very clear network visualization and all the details of each node collected in the entity itself. On the backend, we have used the vagrant development environment by HashiCorp along with the VirtualBox. Vagrant is a simple and powerful tool that provides a platform where we can easily integrate our existing configuration management toolings like Ansible, Chef, Docker, Puppet, or Salt. 
+
+* [Pyvis](https://pyvis.readthedocs.io/en/latest/tutorial.html)
+* [Vagrant](https://www.vagrantup.com/)
+* [Python](https://www.python.org/)
+* [VirtualBox](https://www.virtualbox.org/)
+* [Html](https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript.)
 
 
 
