@@ -92,9 +92,14 @@ A network is composed of a set of computing devices connected to each other. Lik
 
 * [Pyvis](https://pyvis.readthedocs.io/en/latest/tutorial.html)
 * [Vagrant](https://www.vagrantup.com/)
+* [Vagrant Boxes](https://app.vagrantup.com/boxes/search)
 * [Python](https://www.python.org/)
 * [VirtualBox](https://www.virtualbox.org/)
 * [Html](https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript.)
+* [Docker](https://www.docker.com/)
+* [OpenSwitch](https://www.openswitch.net/)
+* [Quagga Routing](https://www.quagga.net/)
+* [Ansible](https://www.ansible.com/)
 
 
 
@@ -196,7 +201,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/SuperboGiuseppe/dncs_lab2/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
