@@ -106,16 +106,18 @@ A network is composed of a set of computing devices connected to each other. Lik
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In order to get benefit from this environment, you must have some basic knowledge of networking, python, vagrant configuration, etc.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Some prerequisites have to be done before using this environment. It's based on your operating system. You can use Windows, Mac, Linux, but you have to see the procedure of installation according to your operating system.  We have used the entire windows operating system to develop this environment. But anyone can install it on the other operating system.
+
+<!--
 * npm
   ```sh
   npm install npm@latest -g
-  ```
+  ``
+-->
 
 ### Installation
 
@@ -200,7 +202,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/SuperboGiuseppe/dncs_lab2.svg?style=for-the-badge
 [contributors-url]: https://github.com/SuperboGiuseppe/dncs_lab2/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
