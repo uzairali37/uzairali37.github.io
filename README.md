@@ -33,7 +33,7 @@
   <h3 align="center">AUTOMATING THE DEPLOYMENT OF NETWORK SETUPS USING VAGRANT</h3>
 
   <p align="center">
-    Design of Networks and communication systems - Project A.Y. 2020-21
+    Design of Networks and communication systems - Project A.Y. 2020-21 University of Trento, Italy
     <br />
     <a href="https://github.com/SuperboGiuseppe/dncs_lab2"><strong>Explore the docs »</strong></a>
     <br />
@@ -120,26 +120,19 @@ Some prerequisites have to be done before using this environment. It's based on 
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Python3
+2. 10GB disk storage
+3. Virtualbox
+4. [Vagrant](https://www.vagrantup.com/)
+5. Internet
+6. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/SuperboGiuseppe/dncs_lab2.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This project is only used to provide the user to test their environments by providing the same operating system, packages, users, and configurations, all while giving users the flexibility to use their favorite editor, IDE, and browsers.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -148,7 +141,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+Pending
 
 
 
@@ -175,13 +168,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [Giuseppe Superbo](https://github.com/SuperboGiuseppe)
+Your Name - [Luca Staboli](https://github.com/LucaStabo)
+Your Name - [Muhammad Uzair](https://github.com/uzairali37)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [AUTOMATING THE DEPLOYMENT OF NETWORK SETUPS USING VAGRANT](https://github.com/SuperboGiuseppe/dncs_lab2)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -194,9 +189,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
-
+ -->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
