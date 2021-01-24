@@ -168,9 +168,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Giuseppe Superbo](https://github.com/SuperboGiuseppe)
-Your Name - [Luca Staboli](https://github.com/LucaStabo)
-Your Name - [Muhammad Uzair](https://github.com/uzairali37)
+- [Giuseppe Superbo](https://github.com/SuperboGiuseppe)
+- [Luca Staboli](https://github.com/LucaStabo)
+- [Muhammad Uzair](https://github.com/uzairali37)
 
 Project Link: [AUTOMATING THE DEPLOYMENT OF NETWORK SETUPS USING VAGRANT](https://github.com/SuperboGiuseppe/dncs_lab2)
 
